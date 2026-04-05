@@ -18,11 +18,12 @@ A lightweight system to display **custom Discord Rich Presence** from your brows
 ## 📦 Project Structure
 
 ```id="e3z2p1"
-discord-rpc/
+discord-rich-presence-userscripts/
 ├── userscripts/
-│   ├── firenovel-rpc.user.js
+│   ├── novelfire-rpc.user.js
 │   └── (more coming soon...)
 ├── README.md
+└── MIT License
 ```
 
 > 💡 The EXE file is available in the **Releases tab**, not in the repository.
