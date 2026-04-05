@@ -58,13 +58,13 @@ Install Tampermonkey extension on your browser.
 
 Go to the `userscripts/` folder and install:
 
-* `firenovel-rpc.user.js`
+* `novelfire-rpc.user.js`
 
 ---
 
-### 4. Open Firenovel
+### 4. Open Supported Website
 
-Visit Firenovel and start reading.
+Visit supported website and start reading.
 
 ✅ Your Discord status will update automatically.
 
@@ -121,7 +121,7 @@ Userscript → WebSocket → EXE → Discord RPC
 
 | Site      | Status           |
 | --------- | ---------------- |
-| Firenovel | ✅                |
+| Novelfire | ✅                |
 | More      | 🔜               |
 
 ---
